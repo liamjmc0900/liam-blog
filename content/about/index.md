@@ -4,6 +4,7 @@ eleventyNavigation:
   key: About Me
   order: 3
 ---
+
 # About Me
 
-I am a person that writes stuff.
+Hello my Name is Liam & and this is my about me page.
